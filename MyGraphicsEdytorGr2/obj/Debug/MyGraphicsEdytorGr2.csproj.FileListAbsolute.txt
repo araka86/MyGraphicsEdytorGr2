@@ -1,0 +1,10 @@
+C:\Users\araka\source\repos\MyGraphicsEdytorGr2\MyGraphicsEdytorGr2\bin\Debug\MyGraphicsEdytorGr2.exe.config
+C:\Users\araka\source\repos\MyGraphicsEdytorGr2\MyGraphicsEdytorGr2\bin\Debug\MyGraphicsEdytorGr2.exe
+C:\Users\araka\source\repos\MyGraphicsEdytorGr2\MyGraphicsEdytorGr2\bin\Debug\MyGraphicsEdytorGr2.pdb
+C:\Users\araka\source\repos\MyGraphicsEdytorGr2\MyGraphicsEdytorGr2\obj\Debug\MyGraphicsEdytorGr2.csproj.AssemblyReference.cache
+C:\Users\araka\source\repos\MyGraphicsEdytorGr2\MyGraphicsEdytorGr2\obj\Debug\MyGraphicsEdytorGr2.Properties.Resources.resources
+C:\Users\araka\source\repos\MyGraphicsEdytorGr2\MyGraphicsEdytorGr2\obj\Debug\MyGraphicsEdytorGr2.csproj.GenerateResource.cache
+C:\Users\araka\source\repos\MyGraphicsEdytorGr2\MyGraphicsEdytorGr2\obj\Debug\MyGraphicsEdytorGr2.csproj.CoreCompileInputs.cache
+C:\Users\araka\source\repos\MyGraphicsEdytorGr2\MyGraphicsEdytorGr2\obj\Debug\MyGraphicsEdytorGr2.exe
+C:\Users\araka\source\repos\MyGraphicsEdytorGr2\MyGraphicsEdytorGr2\obj\Debug\MyGraphicsEdytorGr2.pdb
+C:\Users\araka\source\repos\MyGraphicsEdytorGr2\MyGraphicsEdytorGr2\obj\Debug\MyGraphicsEdytorGr2.myCircle.resources

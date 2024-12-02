@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\araka\\source\\repos\\MyGraphicsEdytorGr2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5ADD4202-32BC-4510-9BCD-F1936F45EB10}|WinGraphics2D\\WinGraphics2D.csproj|C:\\Users\\araka\\source\\repos\\MyGraphicsEdytorGr2\\wingraphics2d\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5ADD4202-32BC-4510-9BCD-F1936F45EB10}|WinGraphics2D\\WinGraphics2D.csproj|solutionrelative:wingraphics2d\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ADD4202-32BC-4510-9BCD-F1936F45EB10}|WinGraphics2D\\WinGraphics2D.csproj|C:\\Users\\araka\\source\\repos\\MyGraphicsEdytorGr2\\wingraphics2d\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ADD4202-32BC-4510-9BCD-F1936F45EB10}|WinGraphics2D\\WinGraphics2D.csproj|solutionrelative:wingraphics2d\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ADD4202-32BC-4510-9BCD-F1936F45EB10}|WinGraphics2D\\WinGraphics2D.csproj|c:\\users\\araka\\source\\repos\\mygraphicsedytorgr2\\wingraphics2d\\transformation2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ADD4202-32BC-4510-9BCD-F1936F45EB10}|WinGraphics2D\\WinGraphics2D.csproj|solutionrelative:wingraphics2d\\transformation2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 321,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Transformation2D.cs",
+              "DocumentMoniker": "C:\\Users\\araka\\source\\repos\\MyGraphicsEdytorGr2\\WinGraphics2D\\Transformation2D.cs",
+              "RelativeDocumentMoniker": "WinGraphics2D\\Transformation2D.cs",
+              "ToolTip": "C:\\Users\\araka\\source\\repos\\MyGraphicsEdytorGr2\\WinGraphics2D\\Transformation2D.cs",
+              "RelativeToolTip": "WinGraphics2D\\Transformation2D.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T23:14:09.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\araka\\source\\repos\\MyGraphicsEdytorGr2\\WinGraphics2D\\Form1.cs",
+              "RelativeDocumentMoniker": "WinGraphics2D\\Form1.cs",
+              "ToolTip": "C:\\Users\\araka\\source\\repos\\MyGraphicsEdytorGr2\\WinGraphics2D\\Form1.cs",
+              "RelativeToolTip": "WinGraphics2D\\Form1.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAQwEQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T23:37:07.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\araka\\source\\repos\\MyGraphicsEdytorGr2\\WinGraphics2D\\Form1.cs",
+              "RelativeDocumentMoniker": "WinGraphics2D\\Form1.cs",
+              "ToolTip": "C:\\Users\\araka\\source\\repos\\MyGraphicsEdytorGr2\\WinGraphics2D\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WinGraphics2D\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T23:08:58.833Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

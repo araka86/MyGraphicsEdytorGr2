@@ -1,0 +1,10 @@
+C:\Users\araka\source\repos\MyGraphicsEdytorGr2\WinGraphics2D\bin\Debug\WinGraphics2D.exe.config
+C:\Users\araka\source\repos\MyGraphicsEdytorGr2\WinGraphics2D\bin\Debug\WinGraphics2D.exe
+C:\Users\araka\source\repos\MyGraphicsEdytorGr2\WinGraphics2D\bin\Debug\WinGraphics2D.pdb
+C:\Users\araka\source\repos\MyGraphicsEdytorGr2\WinGraphics2D\obj\Debug\WinGraphics2D.csproj.AssemblyReference.cache
+C:\Users\araka\source\repos\MyGraphicsEdytorGr2\WinGraphics2D\obj\Debug\WinGraphics2D.Form1.resources
+C:\Users\araka\source\repos\MyGraphicsEdytorGr2\WinGraphics2D\obj\Debug\WinGraphics2D.Properties.Resources.resources
+C:\Users\araka\source\repos\MyGraphicsEdytorGr2\WinGraphics2D\obj\Debug\WinGraphics2D.csproj.GenerateResource.cache
+C:\Users\araka\source\repos\MyGraphicsEdytorGr2\WinGraphics2D\obj\Debug\WinGraphics2D.csproj.CoreCompileInputs.cache
+C:\Users\araka\source\repos\MyGraphicsEdytorGr2\WinGraphics2D\obj\Debug\WinGraphics2D.exe
+C:\Users\araka\source\repos\MyGraphicsEdytorGr2\WinGraphics2D\obj\Debug\WinGraphics2D.pdb
